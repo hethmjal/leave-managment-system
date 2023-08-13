@@ -1,0 +1,67 @@
+#loading-spinner{
+    display: none;
+}
+#alert-notification{
+    display: none;
+}
+.btn i{
+    padding-right: 0rem !important;
+}
+table td,
+table th{
+    text-align: center;
+}
+
+.bold-text {
+    font-weight: bold !important;
+}
+
+.select2-selection--multiple {
+    padding: 10px 10px !important;
+    height: 50px !important;
+}
+
+.target-item {
+    display: none;
+}
+
+span.status {
+    font-size: 12px;
+}
+
+option[disabled] {
+    background-color: #ddd;
+}
+
+.primary-shadow {
+    box-shadow: 0px 5px 10px 1px #3699ff70 !important;
+}
+
+.success-shadow {
+    box-shadow: 0px 5px 10px 1px #1bc5bd4f !important;
+}
+
+.danger-shadow {
+    box-shadow: 0px 5px 10px 1px #f64e6063 !important;
+}
+
+.t-bold{
+    font-weight: bold;
+}
+
+table.details {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table.details tr * {
+    padding: 10px 0;
+}
+
+table.details thead tr td {
+    width: 20%;
+}
+
+.text-decoration-underline {
+    text-decoration: underline;
+}
